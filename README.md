@@ -1,6 +1,6 @@
 
 # Sintaxe Java
-Estudos sobre a sintaxe do Java, junto ao Bootcamp Santander 2023, disponível na plataforma DIO.
+Estudos DIO sobre a sintaxe do Java.
 
 ## Assuntos
 - Tipos de variáveis
